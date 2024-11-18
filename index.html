@@ -52,7 +52,17 @@
     <div class="row">
       <div class="col-4 mx-auto d-block">
         <div class="row mt-5 mx-auto d-block text-center">
-          <img src="img/202308.jpeg" class="img-fluid rounded-circle mb-3" alt="Profile picture" width="140" height="140">
+
+            <style>
+                .ellipse-shape {
+                  width: 200px;
+                  height: 170px;
+                  border-radius: 50%; /* Still applies circular/oval shape */
+                  object-fit: cover;
+                }
+              </style>
+          <!-- <img src="img/FY_CMU.jpeg" class="img-fluid rounded-circle mb-3" alt="Profile picture" width="140" height="140"> -->
+          <img src="img/FY_CMU.jpeg" class="img-fluid mb-3 ellipse-shape" alt="Profile picture" width="140" height="140">
           <h4>Fan Yang</h4>
           <!-- <a href="#" data-toggle="tooltip" data-placement="bottom" title="'q' is pronouced as /tʃ/, so 'Fan' is close to 'mu-chiao'">(How to pronouce?)</a> -->
           <!-- <br></br> -->
@@ -81,7 +91,7 @@
         Columbus, OH 43212<br>
         </p>
         <hr>
-        <p style="text-align:justify">&emsp;&emsp;<a style="font-size: 1.4em">Hi!</a> Welcome to Fan Yang's homepage. I am a first-year PhD student at The Ohio State University, under the guidance of Prof.&nbsp;<a href="https://www.paparrizos.org/">John&nbsp;Paparrizos</a>. Prior to the academic journey at OSU, I obtained M.S. degree at CMU in 2023 and received B.S. from NJUPT in 2020. My research focuses on Machine Learning, Data Mining, Databases and Time-series Analysis. Enjoy!  </p>
+        <p style="text-align:justify">&emsp;&emsp;<a style="font-size: 1.4em">Hi!</a> Welcome to Fan Yang's homepage. I am a second-year PhD student at The Ohio State University, under the guidance of Prof.&nbsp;<a href="https://www.paparrizos.org/">John&nbsp;Paparrizos</a>. Prior to the academic journey at OSU, I obtained M.S. degree at CMU in 2023 and received B.S. from NJUPT in 2020. My research focuses on Machine Learning, Data Mining, Databases and Time-series Analysis. Please talk to me if you are interested!  </p>
         <hr>
       </div>
       </div>
@@ -214,6 +224,7 @@
         <section id="misc" class="mt-5">
           <h3 class="display-5">Teaching</h3><hr>
           <ul class="ul-edu fa-ul">
+            <li>CSE5243, Introduction to Data Mining, Autumn 2024 (OSU, TA) </li>
             <li>18-786, Introduction to Deep Learning, Spring 2023 (CMU, TA) </li>
             <!-- <li>18-660, Optimization, Spring 2022 </li>
             <li>10-605, Machine Learning with Large Datasets, Fall 2021 </li> -->
