@@ -1,14 +1,14 @@
-[
-  {
-    "date": "2025-01-01",
-    "content": "Welcome to my new academic homepage! This template is available on GitHub.",
-    "links": [
-        { "text": "GitHub", "url": "https://github.com/yihangtao/AcaNova-X" }
-    ]
+[ {
+    "date": "2023-8",
+    "content": "Starting my PhD life at The Ohio State University!"
   },
   {
-     "date": "2024-12-15",
-     "content": "One paper titled 'A Novel Approach to AI' was accepted to CVPR 2025!",
-     "links": []
+    "date": "2023-5",
+    "content": "Graduate from Carnegie Mellon University with a M.S. in Electrical and Computer Engineering. Cheers!"
+  },
+  {
+     "date": "Long time ago",
+     "content": "Welcome to my new academic homepage!",
+     "links": [{ "text": "Fan Yang's Homepage.", "url": "https://ivan-fan.github.io/" }]
   }
 ]

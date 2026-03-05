@@ -355,7 +355,7 @@ function getVenueShortName(venueStr, year) {
     let suffix = '';
     
     // Check if it is a conference that needs year suffix
-    const conferences = ['NeurIPS', 'CVPR', 'ICCV', 'ECCV', 'ICRA', 'AAAI', 'GLOBECOM', 'INFOCOM', 'MOBICOM'];
+    const conferences = ['NeurIPS', 'CVPR', 'ICCV', 'ECCV', 'ICRA', 'AAAI', 'GLOBECOM', 'INFOCOM', 'MOBICOM', 'ICML', 'KDD', 'WWW', 'SIGMOD', 'VLDB', 'EMNLP', 'CSL','MTAP'];
     for (const conf of conferences) {
         if (s.includes(conf)) {
             // Get last two digits of year
@@ -416,6 +416,14 @@ function getVenueFullName(venueStr, year) {
     if (s.includes('GLOBECOM')) return `IEEE Global Communications Conference (GLOBECOM${yearSuffix})`;
     if (s.includes('INFOCOM')) return `IEEE International Conference on Computer Communications (INFOCOM${yearSuffix})`;
     if (s.includes('MOBICOM')) return `Annual International Conference on Mobile Computing and Networking (MobiCom${yearSuffix})`;
+    if (s.includes('ICML')) return `International Conference on Machine Learning (ICML${yearSuffix})`;
+    if (s.includes('KDD')) return `ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD${yearSuffix})`;
+    if (s.includes('WWW')) return `International World Wide Web Conference (WWW${yearSuffix})`;
+    if (s.includes('SIGMOD')) return `Proceedings of the ACM on Management of Data (SIGMOD${yearSuffix})`;
+    if (s.includes('VLDB')) return `International Conference on Very Large Data Bases (VLDB${yearSuffix})`;
+    if (s.includes('CSL')) return `Computer Speech & Language (CSL${yearSuffix})`;
+    if (s.includes('EMNLP')) return `Conference on Empirical Methods in Natural Language Processing (EMNLP${yearSuffix})`;
+    if (s.includes('MTAP')) return `Multimedia Tools and Applications (MTAP${yearSuffix})`;
     
     if (s.toLowerCase().includes('arxiv')) return 'arXiv preprint';
     
