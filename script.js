@@ -420,7 +420,7 @@ function getVenueFullName(venueStr, year) {
     if (s.includes('KDD')) return `ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD${yearSuffix})`;
     if (s.includes('WWW')) return `International World Wide Web Conference (WWW${yearSuffix})`;
     if (s.includes('SIGMOD')) return `Proceedings of the ACM on Management of Data (SIGMOD${yearSuffix})`;
-    if (s.includes('VLDB')) return `International Conference on Very Large Data Bases (VLDB${yearSuffix})`;
+    if (s.includes('VLDB')) return `Proceedings of the VLDB Endowment (VLDB${yearSuffix})`;
     if (s.includes('CSL')) return `Computer Speech & Language (CSL${yearSuffix})`;
     if (s.includes('EMNLP')) return `Conference on Empirical Methods in Natural Language Processing (EMNLP${yearSuffix})`;
     if (s.includes('MTAP')) return `Multimedia Tools and Applications (MTAP${yearSuffix})`;

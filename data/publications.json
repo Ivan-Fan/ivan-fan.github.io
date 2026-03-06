@@ -19,12 +19,24 @@
     ]
   },
   {
+    "title": "SAIL: A Voyage to Symbolic Approximation Solutions for Time-Series Analysis",
+    "authors": "<strong>Fan Yang</strong>, John Paparrizos",
+    "venue": "VLDB",
+    "year": "2025",
+    "highlight": "Demo",
+    "thumbnail": "assets/publications/SAIL_intro_figure.png",
+    "tags": [
+      { "text": "Paper", "link": "https://doi.org/10.14778/3750601.3750686" },
+      { "text": "Project", "link": "https://sail-explorer.streamlit.app/" }
+    ]
+  },
+  {
     "title": "SPARTAN: Data‐Adaptive Symbolic Time‐Series Approximation",
     "authors": "<strong>Fan Yang</strong>, John Paparrizos",
     "venue": "SIGMOD",
     "year": "2025",
     "highlight": "Poster",
-    "thumbnail": "assets/publications/placeholder/paper-thumb.png",
+    "thumbnail": "assets/publications/SPARTAN_avatar.png",
     "tags": [
       { "text": "Paper", "link": "https://dl.acm.org/doi/10.1145/3725357" },
       { "text": "Code", "link": "https://github.com/thedatumorg/SPARTAN.git" }
@@ -36,7 +48,7 @@
     "venue": "SIGMOD",
     "year": "2025",
     "highlight": "Poster",
-    "thumbnail": "assets/publications/placeholder/paper-thumb.png",
+    "thumbnail": "assets/publications/MTSDist_intro_figure.png",
     "tags": [
       { "text": "Paper", "link": "https://dl.acm.org/doi/10.1145/3725258" },
       { "text": "Code", "link": "https://github.com/thedatumorg/MTSDistEval.git"}
