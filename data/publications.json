@@ -36,7 +36,7 @@
     "venue": "SIGMOD",
     "year": "2025",
     "highlight": "Poster",
-    "thumbnail": "assets/publications/SPARTAN_avatar.png",
+    "thumbnail": "assets/publications/spartan_avatar.png",
     "tags": [
       { "text": "Paper", "link": "https://dl.acm.org/doi/10.1145/3725357" },
       { "text": "Code", "link": "https://github.com/thedatumorg/SPARTAN.git" }
