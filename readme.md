@@ -1,2 +1,16 @@
 # ivan-fan.github.io
-My personal webpage.
+Welcome to Fan Yang's personal webpage! Will keep updated:)
+
+
+
+“我们登上并非我们所选择的舞台，演出并非我们所选择的剧本。” ---爱比克泰德
+
+"Life is lived on a stage, against a backdrop and props, and amidst a script and a cast not of our own choosing."---Epictetus
+
+
+
+![](assets/osu_bus.jpeg)
+
+P.S. 
+
+Acknolwedge: The beautiful template from [AcaNova-X](https://github.com/yihangtao/AcaNova-X.git).

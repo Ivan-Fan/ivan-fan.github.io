@@ -1,0 +1,84 @@
+[ {
+    "title": "Bridging the Gap: A Decade Review of Time-Series Clustering Methods",
+    "authors": "John Paparrizos, <strong>Fan Yang</strong>, Haojun Li",
+    "venue": "arXiv",
+    "year": "2024",
+    "highlight": "Survey",
+    "tags": [
+      { "text": "Paper", "link": "https://arxiv.org/abs/2412.20582" }
+    ]
+  },
+  {
+    "title": "A Survey on Time-Series Distance Measures",
+    "authors": "John Paparrizos, Haojun Li, <strong>Fan Yang</strong>, K. Wu, J.E. d'Hondt, O. Papapetrou",
+    "venue": "arXiv",
+    "year": "2024",
+    "highlight": "Survey",
+    "tags": [
+      { "text": "Paper", "link": "https://arxiv.org/abs/2412.20574" }
+    ]
+  },
+  {
+    "title": "SAIL: A Voyage to Symbolic Approximation Solutions for Time-Series Analysis",
+    "authors": "<strong>Fan Yang</strong>, John Paparrizos",
+    "venue": "VLDB",
+    "year": "2025",
+    "highlight": "Demo",
+    "thumbnail": "assets/publications/SAIL_intro_figure.png",
+    "tags": [
+      { "text": "Paper", "link": "https://doi.org/10.14778/3750601.3750686" },
+      { "text": "Project", "link": "https://sail-explorer.streamlit.app/" }
+    ]
+  },
+  {
+    "title": "SPARTAN: Data‐Adaptive Symbolic Time‐Series Approximation",
+    "authors": "<strong>Fan Yang</strong>, John Paparrizos",
+    "venue": "SIGMOD",
+    "year": "2025",
+    "highlight": "Poster",
+    "thumbnail": "assets/publications/SPARTAN_avatar.png",
+    "tags": [
+      { "text": "Paper", "link": "https://dl.acm.org/doi/10.1145/3725357" },
+      { "text": "Code", "link": "https://github.com/thedatumorg/SPARTAN.git" }
+    ]
+  },
+  {
+    "title": "A Structured Study of Multivariate Time-Series Distance Measures",
+    "authors": "Jens E. d'Hondt*, Haojun Li*, <strong>Fan Yang*</strong>, Odysseas Papapetrou, John Paparrizos",
+    "venue": "SIGMOD",
+    "year": "2025",
+    "highlight": "Poster",
+    "thumbnail": "assets/publications/MTSDist_intro_figure.png",
+    "tags": [
+      { "text": "Paper", "link": "https://dl.acm.org/doi/10.1145/3725258" },
+      { "text": "Code", "link": "https://github.com/thedatumorg/MTSDistEval.git"}
+    ]
+  },
+  {
+    "title": "A closer look at reinforcement learning-based automatic speech recognition",
+    "authors": "<strong>Fan Yang</strong>, Muqiao Yang, Xiang Li, Yuxuan Wu, Zhiyuan Zhao, Bhiksha Raj, Rita Singh",
+    "venue": "CSL",
+    "year": "2024",
+    "tags": [
+      { "text": "Paper", "link": "https://doi.org/10.1016/j.csl.2024.101641" }
+    ]
+  },
+  {
+    "title": "Towards Noise-Tolerant Speech-Referring Video Object Segmentation: Bridging Speech and Text",
+    "authors": "Xiang Li, Jinglu Wang, Xiaohao Xu, Muqiao Yang, <strong>Fan Yang</strong>, Yizhou Zhao, Rita Singh, Bhiksha Raj",
+    "venue": "EMNLP",
+    "year": "2023",
+    "tags": [
+      { "text": "Paper", "link": "https://doi.org/10.18653/v1/2023.emnlp-main.140" }
+    ]
+  },
+  {
+    "title": "Mask removal : Face inpainting via attributes",
+    "authors": "Yefan Jiang, <strong>Fan Yang</strong>, Zhangxing Bian, Changsheng Lu, Siyu Xia",
+    "venue": "MTAP",
+    "year": "2022",
+    "tags": [
+      { "text": "Paper", "link": "https://link.springer.com/article/10.1007/s11042-022-12912-1" }
+    ]
+  }
+]

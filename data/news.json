@@ -1,0 +1,38 @@
+[ {
+    "date": "2026-2",
+    "content": "One co-authored paper has been submitted and under review."
+  },
+  {
+    "date": "2025-6",
+    "content": "Presented my work at SIGMOD 2025 in Berlin, Germany! An incredible experience connecting with so many brilliant minds!"
+  },
+  {
+    "date": "2025-5",
+    "content": "One Demo paper on time-series symbolic approximation is accepted to VLDB 2025!"
+  }, 
+ {
+    "date": "2025-2",
+    "content": "Two co-authored papers on time-series analysis are accepted to SIGMOD 2025!"
+  }, 
+  {
+    "date": "2024-12",
+    "content": "Two survey papers on time-series analysis are posted to arXiv (under submission)."
+  }, 
+  {
+    "date": "2024-3",
+    "content": "One paper on automatic speech recognition has been accepted to Computer Speech & Language (CSL)!"
+  }, 
+  {
+    "date": "2023-8",
+    "content": "Starting my PhD life at The Ohio State University!"
+  },
+  {
+    "date": "2023-5",
+    "content": "Graduate from Carnegie Mellon University with an M.S. in Electrical and Computer Engineering. Cheers!"
+  },
+  {
+     "date": "Long time ago",
+     "content": "Welcome to my new academic homepage!",
+     "links": [{ "text": "Fan Yang's Homepage.", "url": "https://ivan-fan.github.io/" }]
+  }
+]
